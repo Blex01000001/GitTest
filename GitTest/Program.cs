@@ -11,8 +11,10 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("第二次修改");
-            Console.WriteLine("第二次修改");
+            Console.WriteLine("第3次修改");
+            Console.WriteLine("第二次修改"); //第3次修改
+
+            Console.WriteLine("第3次修改");
         }
     }
 }
