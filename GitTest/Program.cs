@@ -13,6 +13,8 @@ namespace GitTest
         {
             Console.WriteLine("第二次修改");
             Console.WriteLine("第二次修改");
+            Console.WriteLine("第二次修改");
+            Console.WriteLine("第二次修改");
         }
     }
 }
