@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("AlexDev_0516");
+            Console.WriteLine("第二次修改");
+            Console.WriteLine("第二次修改");
         }
     }
 }

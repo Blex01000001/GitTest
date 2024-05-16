@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    internal class AlexDevTest
+    internal class NewClass
     {
-        int num = 0;
-        public int Num { get { return num; } }
-        public AlexDevTest() { }
+        public string Name { get; set; }
+        //第二版新增CALSS
     }
-}
 }
