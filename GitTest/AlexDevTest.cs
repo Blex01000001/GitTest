@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    internal class Program
+    internal class AlexDevTest
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("AlexDev_0516");
-        }
+        int num = 0;
+        public int Num { get { return num; } }
+        public AlexDevTest() { }
     }
+}
 }
