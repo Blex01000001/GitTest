@@ -11,7 +11,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("第二次修改");
+
             Console.WriteLine("第二次修改");
         }
     }
