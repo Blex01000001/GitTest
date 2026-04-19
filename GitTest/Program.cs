@@ -19,7 +19,7 @@ namespace GitTest
             Console.WriteLine("第3次修改");
             Console.WriteLine("Hello World");//222222
 
-            ///test1
+            ///Contribution activity test
 
         }
     }
