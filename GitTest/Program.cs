@@ -25,6 +25,7 @@ namespace GitTest
             // Merge finish
             // test dosomething
             // do something on A
+            // do something on A 2
         }
     }
 }
