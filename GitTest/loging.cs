@@ -9,5 +9,6 @@ namespace GitTest
     internal class loging
     {
         // dosomething
+        // do something on lap
     }
 }
