@@ -17,14 +17,12 @@ namespace GitTest
             Console.WriteLine("第二次修改"); //555
             Console.WriteLine("第二次修改"); //55555555555555555555
             Console.WriteLine("第3次修改");
-<<<<<<< HEAD
             Console.WriteLine("Hello World");//222222
-
             ///Contribution activity test
             // Contribution LAP TEST
-=======
             Console.WriteLine("Hello World");//2222222222222
->>>>>>> origin/test_brn
+
+            // Merge finish
         }
     }
 }
