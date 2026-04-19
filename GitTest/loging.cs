@@ -15,5 +15,7 @@ namespace GitTest
         // do something on lap 4
         // do something on A
         // do something on lap 5
+        // fix on lap 1
+        // fix on lap 2
     }
 }
