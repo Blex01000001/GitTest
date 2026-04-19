@@ -27,6 +27,7 @@ namespace GitTest
             // do something on A
             // do something on A 2
             // do something on A 3
+            // do something on A 4
         }
     }
 }
